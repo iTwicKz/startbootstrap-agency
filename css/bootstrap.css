@@ -5310,7 +5310,7 @@ a.thumbnail.active {
 }
 a.list-group-item,
 button.list-group-item {
-  color: #555;
+  color: rgb(85, 85, 85);
 }
 a.list-group-item .list-group-item-heading,
 button.list-group-item .list-group-item-heading {
